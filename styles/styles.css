@@ -68,6 +68,18 @@ grid-template-columns: repeat(2, 1fr);gap: 24px;}
 
 #quick-list{font-weight: 500;}
 
+/*features section related style*/
+.feature-card{padding: 30px;box-shadow: 4px 30px 0  rgba(0,0,0, 0.06); 
+margin: 20px;border-radius: 8px;}
+
+.features{gap: 140px;}
+
+#feature-section-title{border-left: 5px solid #FF900E;padding-left: 21px;}
+.feature-card,.feature-title{font-weight: 600;font-size: 1.25rem;
+margin-top: 0px;margin-bottom: 0px;}
+
+
+
 /*some facts about section*/
 .facts-container{display: grid;grid-template-columns: repeat(4,1fr);}
 .facts-cards{border: 1px solid #FF900E;
